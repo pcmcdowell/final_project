@@ -1,0 +1,38 @@
+@font-face {
+	font-family: Disney;
+	src: url("waltograph42.otf");
+}
+li {
+	font-family: Disney;
+	font-size: 24px;
+	font-style: oblique;
+	display: inline;
+	color: #470047;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+a:hover {
+	color: ;
+	text-decoration: underline;
+}
+.square {
+	width: 100px;
+	height: 100px;
+	background-color: #cc6699;
+	border-radius: 10px;
+}
+.square2 {
+	width: 100px;
+	height: 100px;
+	background-color: #ff6699;
+	border-radius: 10px;
+}
+div {
+	display: in-line;
+}
+.red {
+	color: #ff0000;
+}
