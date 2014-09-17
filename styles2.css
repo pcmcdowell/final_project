@@ -1,0 +1,66 @@
+.skyline {
+	width: 250px;
+	height: 125px;
+}
+.hackbright {
+	width: 300px;
+	height: 125px;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.navbar-text {
+	font-family: Disney;
+	font-size: 24px;
+	font-style: oblique;
+	display: inline-block;
+}
+@font-face {
+	font-family: Disney;
+	src: url("waltograph42.otf");
+}
+span {
+	color: #990099;
+	font-style: bold;
+	font-size: 35px;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+h2 {
+	text-align: center;
+	color: #6699ff;
+}
+p {
+	text-align: center;
+	color: #66ffff;
+}
+h3 {
+	text-align: center;
+}
+body {
+	background-image: url("pictures/blue-angels.jpg");
+	repeat: no-repeat;
+}
+a {
+	color: #6699ff;
+	text-align: center;
+}
+.giants {
+	width: 350px;
+	height: 250px;
+}
+a:hover {
+	color: #33d6ff;
+	text-decoration: underline;
+}
+.school {
+	color: #3399ff;
+}
+.favorites {
+	color: #00ccff;
+}
