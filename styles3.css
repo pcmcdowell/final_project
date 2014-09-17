@@ -1,0 +1,53 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li {
+	font-family: Disney;
+	font-size: 24px;
+	font-style: oblique;
+	display: inline;
+}
+@font-face {
+	font-family: Disney;
+	src: url("waltograph42.otf");
+}
+.malaki {
+	width: 260px;
+	height: 350px;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+p {
+	text-align: center;
+	color: #0000ff;
+}
+h3 {
+	text-align: center;
+	color: #000062;
+}
+.navbar-text {
+	text-align: center;
+}
+body {
+	background-color: #ceebff;
+}
+.mcdowell {
+	width: 275px;
+	height: 275px;
+}
+a{
+	color: #000062;
+}
+a:hover {
+	color: #0000ff;
+	text-decoration: line-through;
+}
+.sanders {
+	width: 500px;
+	height: 300px;
+}
